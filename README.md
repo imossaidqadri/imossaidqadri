@@ -41,7 +41,7 @@ I'm a front end software developer and co-founder of [Other Dev](https://www.oth
 
 ### 📬 Let's Connect
 
-- 📸 [Instagram → @other.dev](https://www.instagram.com/ossaidqadri)  
+- 📸 [Instagram → @ossaidqadri](https://www.instagram.com/ossaidqadri)  
 - 🌐 [Website → www.otherdev.com](https://www.otherdev.com)  
 
 ---
