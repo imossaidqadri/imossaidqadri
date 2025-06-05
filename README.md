@@ -1,5 +1,3 @@
-Sure! Here’s the complete README.md you can copy-paste directly into your GitHub profile repo:
-
 # 👋 Hi, I’m Ossaid Qadri
 
 I'm a software developer and co-founder of [Other Dev](https://www.otherdev.com) — a Karachi-based company helping businesses go digital with clean, fast, and scalable software solutions.
