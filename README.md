@@ -25,22 +25,21 @@ Platforms:     Shopify · WordPress · Netlify · Vercel
 
 
 ⸻
+## 📊 GitHub Stats
 
-📊 GitHub Stats
+![Ossaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imossaidqadri&show_icons=true&count_private=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imossaidqadri&layout=compact&theme=radical)
 
-⸻
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imossaidqadri&theme=radical)
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
+![Ossaid's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=imossaidqadri&theme=radical&no-frame=true&no-bg=true&margin-w=15)
 
-⸻
+## 📈 Visitor Count
 
-📈 Visitor Count
-
-
-⸻
-
+![Visitor Count](https://komarev.com/ghpvc/?username=imossaidqadri&color=blue)
 📫 Connect With Me
 	•	🌐 Website
 	•	💼 LinkedIn
