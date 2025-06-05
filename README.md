@@ -16,11 +16,6 @@ I'm a front end software developer and co-founder of [Other Dev](https://www.oth
 - 🌐 Networking and software architecture  
 - 📢 SEO and marketing for real estate and businesses  
 
-### 🎓 My Journey So Far
-
-- Executive Head – Publications Society, Cedar College  
-- Treasurer – StuCo & Publications Society  
-- Event Planner – Youth Literary Fest, sports & declamations at Habib  
 
 ### 💻 Tools & Tech I Love
 
@@ -31,13 +26,6 @@ I'm a front end software developer and co-founder of [Other Dev](https://www.oth
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
-
-### 🌱 These Days I'm Into
-
-- Scaling Other Dev  
-- SEO for real estate projects  
-- Practicing Arabic & French pronunciation  
-- Taming long, frizzy hair in Karachi’s dusty summer 😅  
 
 ---
 
@@ -53,7 +41,7 @@ I'm a front end software developer and co-founder of [Other Dev](https://www.oth
 
 ### 📬 Let's Connect
 
-- 📸 [Instagram → @other.dev](https://www.instagram.com/other.dev)  
+- 📸 [Instagram → @other.dev](https://www.instagram.com/ossaidqadri)  
 - 🌐 [Website → www.otherdev.com](https://www.otherdev.com)  
 
 ---
