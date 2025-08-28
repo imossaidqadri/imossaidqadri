@@ -4,7 +4,7 @@ I'm a frontend-focused developer and co-founder of [Other Dev](https://www.other
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
@@ -45,7 +45,7 @@ I'm a frontend-focused developer and co-founder of [Other Dev](https://www.other
 
 ---
 
-### 🛠 Tech Stack (Actually Used in Production)
+### Tech Stack (Actually Used in Production)
 
 **Frontend Frameworks & Libraries**
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=fff)
@@ -88,7 +88,7 @@ I'm a frontend-focused developer and co-founder of [Other Dev](https://www.other
 
 ---
 
-### 💼 What I Actually Build
+### What I Actually Build
 
 **Real Estate Platforms**  
 Premium property websites with CRM integration and lead automation
@@ -110,7 +110,7 @@ Django REST backends with JWT auth and TypeScript integration
 
 ---
 
-### 🧠 Philosophy
+### Philosophy
 
 At **Other Dev**, we don't just ship pages. We ship systems that scale. Whether it's:
 
@@ -123,11 +123,11 @@ We cut the fluff, automate the chaos, and deliver experiences that serve the bus
 
 ---
 
-### 📬 Let’s Talk
+### Let's Talk
 
-- 🌐 [Website](https://www.otherdev.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/imossaidqadri)  
-- 📸 [Instagram](https://www.instagram.com/ossaidqadri)  
+- [Website](https://www.otherdev.com)  
+- [LinkedIn](https://www.linkedin.com/in/imossaidqadri)  
+- [Instagram](https://www.instagram.com/ossaidqadri)  
 
 ---
 
