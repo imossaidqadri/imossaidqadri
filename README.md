@@ -10,34 +10,37 @@ I'm a frontend-focused developer and co-founder of [Other Dev](https://www.other
 <tr>
 <td width="50%" valign="top">
 
-**Real Estate & Property Development**
-- **[Bin Yousuf Properties](https://github.com/imossaidqadri/Bin_yousuf)** → **[Live Site](https://www.binyousufgroup.com)**  
-  Premium real estate website with Astro + React, Google Sheets integration, and WhatsApp automation for lead management
+### Real Estate & Property Development
+**[Bin Yousuf Properties](https://github.com/imossaidqadri/Bin_yousuf)** • **[Visit Site →](https://www.binyousufgroup.com)**  
+Premium real estate platform with Astro + React, Google Sheets integration, WhatsApp automation
 
-**Legal Tech & Collaboration**
-- **[Lexa Platform](https://github.com/imossaidqadri/lexa-history-reset)** → **[Live Site](https://lexa.lawyer.com)**  
-  Real-time collaborative legal document platform featuring Y.js sync, TipTap editor, Django REST backend, and live cursors
-- **[Lexa Backend API](https://github.com/imossaidqadri/lexa-backend)**  
-  Django REST API with JWT auth, shared TypeScript types, and PostgreSQL integration
+### Legal Tech & Collaboration  
+**[Lexa Platform](https://github.com/imossaidqadri/lexa-history-reset)** • **[Visit Site →](https://lexa.lawyer.com)**  
+Real-time collaborative legal document platform with Y.js sync, TipTap editor, live cursors
 
-**Construction & Real Estate CRM**
-- **[Narkins Builders](https://github.com/imossaidqadri/narkins-builders)** → **[Live Site](https://narkinsbuilders.com)**  
-  Next.js 15 construction platform with TinaCMS, PWA capabilities, MySQL integration, and advanced SEO optimization
+**[Lexa Backend API](https://github.com/imossaidqadri/lexa-backend)**  
+Django REST API with JWT authentication, shared TypeScript types, PostgreSQL
+
+### Construction & CRM
+**[Narkins Builders](https://github.com/imossaidqadri/narkins-builders)** • **[Visit Site →](https://narkinsbuilders.com)**  
+Next.js 15 construction platform with TinaCMS, PWA capabilities, MySQL integration
 
 </td>
 <td width="50%" valign="top">
 
-**E-commerce & Shopify Themes**
-- **[Samar Haus Store](https://github.com/imossaidqadri/samarhaus-v2)** → **[Live Store](https://samar-haus.com)**  
-  Full-featured Shopify theme with 25+ language support, advanced product displays, and performance optimization
-- **[Wish Apparels](https://github.com/imossaidqadri/wish-apparels-winter-24)** → **[Live Store](https://www.wishapparels.com)**  
-  Minimalist fashion brand theme following "good design is as little design as possible" philosophy
+### E-commerce & Shopify Development
+**[Samar Haus Store](https://github.com/imossaidqadri/samarhaus-v2)** • **[Visit Store →](https://samar-haus.com)**  
+Full-featured Shopify theme with 25+ language support, performance optimization
 
-**Content & Blogging**
-- **[OD Blog](https://github.com/imossaidqadri/od-blog-11ty)** → **[Live Site](https://research.otherdev.com)**  
-  Static site generator using Eleventy with Tailwind CSS, syntax highlighting, and RSS feeds
-- **[Other Dev Website](https://github.com/imossaidqadri/otherdev-web)** → **[Live Site](https://www.otherdev.com)**  
-  Company portfolio built with Astro, GSAP animations, and PDF processing
+**[Wish Apparels](https://github.com/imossaidqadri/wish-apparels-winter-24)** • **[Visit Store →](https://www.wishapparels.com)**  
+Minimalist fashion brand theme following "good design is as little design as possible"
+
+### Content & Digital Platforms
+**[OD Blog](https://github.com/imossaidqadri/od-blog-11ty)** • **[Visit Site →](https://research.otherdev.com)**  
+Static site generator using Eleventy with Tailwind CSS, syntax highlighting
+
+**[Other Dev Website](https://github.com/imossaidqadri/otherdev-web)** • **[Visit Site →](https://www.otherdev.com)**  
+Company portfolio built with Astro, GSAP animations, PDF processing
 
 </td>
 </tr>
