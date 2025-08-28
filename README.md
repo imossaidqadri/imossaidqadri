@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ossaid
 
-I'm a frontend-focused developer and co-founder of [Other Dev](https://www.otherdev.com) — a Karachi-based software studio helping brands ship fast, scalable, and clean digital products with zero unnecessary fluff.
+I'm a frontend-focused developer and co-founder of [Other Dev](https://www.otherdev.com), a Karachi-based software studio helping brands ship fast, scalable, and clean digital products with zero unnecessary fluff.
 
 ---
 
@@ -90,33 +90,44 @@ I'm a frontend-focused developer and co-founder of [Other Dev](https://www.other
 
 ### 💼 What I Actually Build
 
-- 🏗️ **Real Estate Platforms** — Premium property websites with CRM integration and lead automation
-- ⚖️ **Legal Tech** — Real-time collaborative document platforms with live cursors and sync
-- 🏢 **Business Websites** — Construction company platforms with PWA capabilities and CMS integration  
-- 🛒 **E-commerce** — High-converting Shopify themes with multi-language support and performance optimization
-- 📝 **Content Systems** — Static site generators and blog platforms with modern toolchains
-- 🔧 **Full-stack APIs** — Django REST backends with JWT auth and TypeScript integration
+**Real Estate Platforms**  
+Premium property websites with CRM integration and lead automation
+
+**Legal Tech**  
+Real-time collaborative document platforms with live cursors and sync
+
+**Business Websites**  
+Construction company platforms with PWA capabilities and CMS integration
+
+**E-commerce**  
+High-converting Shopify themes with multi-language support and performance optimization
+
+**Content Systems**  
+Static site generators and blog platforms with modern toolchains
+
+**Full-stack APIs**  
+Django REST backends with JWT auth and TypeScript integration
 
 ---
 
 ### 🧠 Philosophy
 
-At **Other Dev**, we don't just ship pages — we ship systems that scale. Whether it's:
+At **Other Dev**, we don't just ship pages. We ship systems that scale. Whether it's:
 
 - Real-time collaboration platforms that sync across devices  
 - E-commerce themes that convert visitors into customers  
 - Property platforms that automate lead management  
 - Content systems that perform at scale  
 
-We cut the fluff, automate the chaos, and deliver experiences that serve the business — not just the browser.
+We cut the fluff, automate the chaos, and deliver experiences that serve the business, not just the browser.
 
 ---
 
 ### 📬 Let’s Talk
 
-- 🌐 [Website → www.otherdev.com](https://www.otherdev.com)  
-- 💼 [LinkedIn → /in/imossaidqadri](https://www.linkedin.com/in/imossaidqadri)  
-- 📸 [Instagram → @ossaidqadri](https://www.instagram.com/ossaidqadri)  
+- 🌐 [Website](https://www.otherdev.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/imossaidqadri)  
+- 📸 [Instagram](https://www.instagram.com/ossaidqadri)  
 
 ---
 
