@@ -1,4 +1,4 @@
-# Ossaid Qadri
+# Ossaid
 
 **Frontend-focused Developer & Co-founder** at [Other Dev](https://www.otherdev.com)  
 *Karachi-based software studio shipping scalable digital products with zero unnecessary fluff*
