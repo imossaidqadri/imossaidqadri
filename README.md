@@ -42,6 +42,7 @@ Technical blog with Eleventy and syntax highlighting
 ## Core Technologies
 
 **Frontend:** Next.js • React • Astro • TypeScript • Eleventy  
+**Application:** Expo • React Native • EAS Cloud  
 **Styling:** Tailwind CSS • GSAP • Framer Motion  
 **Backend:** Django • Python • MySQL • PostgreSQL  
 **E-commerce:** Shopify Liquid development  
