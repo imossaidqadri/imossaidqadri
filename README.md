@@ -16,7 +16,7 @@
 Premium property platform with Google Sheets integration and WhatsApp automation
 
 **[Lexa Platform](https://lexa.lawyer.com)** • [Frontend](https://github.com/imossaidqadri/lexa-history-reset) • [API](https://github.com/imossaidqadri/lexa-backend)  
-Real-time document collaboration with Y.js CRDT sync, live cursors, Django REST backend
+Real-time document collaboration with Y.js CRDT sync, live cursors, 
 
 ### E-commerce & Shopify
 
