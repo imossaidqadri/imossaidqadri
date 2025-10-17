@@ -16,7 +16,7 @@
 Premium property platform with Google Sheets integration and WhatsApp automation
 
 **[Lexa Platform](https://lexa.deployments.otherdev.com/)** • [Frontend](https://github.com/imossaidqadri/lexa-ui) • [Backend](https://github.com/imossaidqadri/lexa-backend)  
-Real-time document collaboration with Y.js CRDT sync, live cursors, Django REST backend
+Real-time document collaboration with Y.js CRDT sync, live cursors, REST backend
 
 ### E-commerce & Shopify
 
@@ -43,7 +43,7 @@ Technical blog with Eleventy and syntax highlighting
 
 **Frontend:** Next.js • React • Astro • TypeScript • Eleventy  
 **Styling:** Tailwind CSS • GSAP • Framer Motion  
-**Backend:** Django • Python • MySQL • PostgreSQL  
+**Backend:**  Python • MySQL • PostgreSQL  
 **E-commerce:** Shopify Liquid development  
 **Real-time:** Y.js • WebSocket • Nanostores  
 **Tools:** Bun • Vercel • TinaCMS
