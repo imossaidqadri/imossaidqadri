@@ -15,7 +15,7 @@
 **[Bin Yousuf Properties](https://www.binyousufgroup.com)** • [Code](https://github.com/imossaidqadri/Bin_yousuf)  
 Premium property platform with Google Sheets integration and WhatsApp automation
 
-**[Lexa Platform](https://lexa.lawyer.com)** • [Frontend](https://github.com/imossaidqadri/lexa-history-reset) • [API](https://github.com/imossaidqadri/lexa-backend)  
+**[Lexa Platform](https://lexa.deployments.otherdev.com/)** • [Frontend](https://github.com/imossaidqadri/lexa-ui) • [Backend](https://github.com/imossaidqadri/lexa-backend)  
 Real-time document collaboration with Y.js CRDT sync, live cursors, Django REST backend
 
 ### E-commerce & Shopify
@@ -56,7 +56,7 @@ Technical blog with Eleventy and syntax highlighting
 **Legal Technology** → Document collaboration with real-time sync and version control  
 **E-commerce** → International Shopify themes that convert and pass Core Web Vitals  
 **Business Systems** → Construction platforms, content systems, and offline-capable PWAs  
-**APIs & Backends** → Django REST with JWT authentication and TypeScript contracts
+**APIs & Backends** →  REST with JWT authentication and TypeScript contracts
 
 -----
 
