@@ -1,6 +1,6 @@
 # Ossaid
 
-**Frontend-focused Developer & Co-founder** at [Other Dev](https://www.otherdev.com)  
+**Frontend-focused Developer & Founder** at [Other Dev](https://www.otherdev.com)  
 *Karachi-based software studio shipping scalable digital products with zero unnecessary fluff*
 
 [![Website](https://img.shields.io/badge/Portfolio-otherdev.com-blue)](https://www.otherdev.com)
