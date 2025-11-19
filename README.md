@@ -1,6 +1,4 @@
-# Ossaid
-
-**Frontend-focused Developer & Co-founder** at [Other Dev](https://www.otherdev.com)  
+**Frontend-focused Developer & Co-founder** at [Other Dev](https://www.otherdev.com)
 *Karachi-based software studio shipping scalable digital products with zero unnecessary fluff*
 
 [![Website](https://img.shields.io/badge/Portfolio-otherdev.com-blue)](https://www.otherdev.com)
@@ -10,63 +8,68 @@
 
 ## Featured Projects
 
-### Real Estate & Legal Tech
+### AI & Legal Tech
 
-**[Bin Yousuf Properties](https://www.binyousufgroup.com)** • [Code](https://github.com/imossaidqadri/Bin_yousuf)  
+**[Lexa AI Platform](https://lexa.deployments.otherdev.com/)** • [Frontend](https://github.com/imossaidqadri/lexa-ui) • [Backend](https://github.com/imossaidqadri/lexa-backend) 
+
+AI-powered legal assistant with Pakistani law expertise, real-time document analysis, and WebSocket chat
+
+### Real Estate & Business Platforms
+
+**[Bin Yousuf Properties](https://www.binyousufgroup.com)** • [Code](https://github.com/imossaidqadri/Bin_yousuf)
 Premium property platform with Google Sheets integration and WhatsApp automation
 
-**[Lexa Platform](https://lexa.deployments.otherdev.com/)** • [Frontend](https://github.com/imossaidqadri/lexa-ui) • [Backend](https://github.com/imossaidqadri/lexa-backend)  
-Real-time document collaboration with Y.js CRDT sync, live cursors, REST backend
+**[Narkins Builders](https://narkinsbuilders.com)** • [Code](https://github.com/imossaidqadri/narkins-builders)
+Next.js 15 construction platform with TinaCMS, PWA capabilities, and advanced CRM
+
+**[Other Dev Website](https://www.otherdev.com)** • [Code](https://github.com/imossaidqadri/otherdev-web-v2)
+Modern Next.js 16 portfolio with tRPC API, full TypeScript coverage, and interactive contact system
+
+### Multi-Tenant Platforms
+
+**[OtherDev Canvas](https://github.com/imossaidqadri/otherdev-canvas)**
+Multi-tenant CMS platform for OtherDev Clients, enabling multiple clients to manage content independently
 
 ### E-commerce & Shopify
 
-**[Samar Haus Store](https://samar-haus.com)** • [Code](https://github.com/imossaidqadri/samarhaus-v2)  
-25+ language Shopify theme optimized for Core Web Vitals
-
-**[Wish Apparels](https://www.wishapparels.com)** • [Code](https://github.com/imossaidqadri/wish-apparels-winter-24)  
+**[Wish Apparels](https://www.wishapparels.com)** • [Code](https://github.com/imossaidqadri/wish-apparels-winter-24)
 Minimalist fashion theme following “good design is as little design as possible”
 
-### Business Platforms
-
-**[Narkins Builders](https://narkinsbuilders.com)** • [Code](https://github.com/imossaidqadri/narkins-builders)  
-Next.js 15 construction platform with TinaCMS and PWA capabilities
-
-**[Other Dev Website](https://www.otherdev.com)** • [Code](https://github.com/imossaidqadri/otherdev-web)  
-Portfolio with GSAP animations and PDF processing
-
-**[OD Research Blog](https://research.otherdev.com)** • [Code](https://github.com/imossaidqadri/od-blog-11ty)  
-Technical blog with Eleventy and syntax highlighting
+**[Boulevard Theme](https://www.blvdretail.co)** • [Code](https://github.com/imossaidqadri/od-blvd)
+Custom Shopify theme with Tailwind CSS integration, optimized for performance and conversion
 
 -----
 
 ## Core Technologies
 
-**Frontend:** Next.js • React • Astro • TypeScript • Eleventy  
-**Styling:** Tailwind CSS • GSAP • Framer Motion  
-**Backend:**  Python • MySQL • PostgreSQL  
-**E-commerce:** Shopify Liquid development  
-**Real-time:** Y.js • WebSocket • Nanostores  
-**Tools:** Bun • Vercel • TinaCMS
+**Frontend:** Next.js 15/16 • React 19 • Astro • TypeScript 5.x • Eleventy
+**Styling:** Tailwind CSS 4 • GSAP • Framer Motion • Radix UI
+**Backend:** Go  • MySQL • PostgreSQL • MongoDB
+**E-commerce:** Shopify Liquid development
+**Real-time:** YJS • WebSocket • Nanostores • TipTap
+**Tools:** Bun • Vercel • TinaCMS • Turbopack
 
 -----
 
 ## What We Build
 
-**Real Estate Platforms** → Property sites with CRM integration and automated lead routing  
-**Legal Technology** → Document collaboration with real-time sync and version control  
-**E-commerce** → International Shopify themes that convert and pass Core Web Vitals  
-**Business Systems** → Construction platforms, content systems, and offline-capable PWAs  
-**APIs & Backends** →  REST with JWT authentication and TypeScript contracts
+**AI-Powered Platforms** → Legal assistants with document analysis and real-time chat
+**Real Estate Systems** → Property sites with CRM integration and automated lead routing
+**Legal Technology** → Document collaboration with real-time sync and e-signature workflows
+**Multi-Tenant Systems** → Scalable CMS platforms with independent client management
+**E-commerce** → Custom Shopify themes with performance and conversion focus
+**Business Platforms** → Construction, content systems, and offline-capable PWAs
 
 -----
 
 ## Philosophy & Approach
 
-We ship systems that scale, not just websites. Real-time collaboration that syncs across devices, e-commerce that converts international traffic, property platforms that automate lead management.
+We ship systems that scale, not just websites. Multi-tenant platforms that serve multiple clients independently, AI-powered legal assistants that understand local law, custom e-commerce optimization, international Shopify themes that convert and pass Core Web Vitals, property platforms that automate lead management.
 
 **We take on:**
 
-- Full-stack applications with business logic
+- Full-stack applications with complex business logic
+- AI integration with real-time capabilities
 - Shopify optimization and custom themes
 - Real-time systems and performance consulting
 
